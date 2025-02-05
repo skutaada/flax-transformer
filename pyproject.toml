@@ -11,6 +11,8 @@ dependencies = [
     "notebook>=7.3.2",
     "seaborn>=0.13.2",
     "secretflow>=1.11.0b1",
+    "torch>=2.1.2",
+    "torchvision>=0.16.2",
 ]
 
 [tool.pyright]
