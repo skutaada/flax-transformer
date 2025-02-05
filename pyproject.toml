@@ -8,6 +8,7 @@ dependencies = [
     "flax>=0.7.4",
     "jax>=0.4.17",
     "matplotlib>=3.10.0",
+    "notebook>=7.3.2",
     "seaborn>=0.13.2",
     "secretflow>=1.11.0b1",
 ]
